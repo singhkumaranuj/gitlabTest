@@ -1,2 +1,1 @@
-this is cloned pri
-t commad and its 2nd edit
+this is first cloned branch text
